@@ -1,0 +1,21 @@
+﻿Build started 05/03/2016 16:21:36.
+     1>Project "\\bournemouth.ac.uk\data\Student\Home\DEC\i7425484\software programming assignment 2\Game\Game\Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp
+         Game.cpp
+     1>\\bournemouth.ac.uk\data\student\home\dec\i7425484\software programming assignment 2\game\game\game.cpp(151): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(881) : see declaration of '_sleep'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\bournemouth.ac.uk\data\Student\Home\DEC\i7425484\software programming assignment 2\Game\Debug\Game.exe" /INCREMENTAL /NOLOGO alld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\bournemouth.ac.uk\data\Student\Home\DEC\i7425484\software programming assignment 2\Game\Debug\Game.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\bournemouth.ac.uk\data\Student\Home\DEC\i7425484\software programming assignment 2\Game\Debug\Game.lib" /MACHINE:X86 Debug\AllegroInit.obj
+         Debug\Animals.obj
+         Debug\Game.obj
+         Debug\Main.obj
+         Debug\Medals.obj
+         Debug\Menu.obj
+         Debug\Player.obj
+         Game.vcxproj -> \\bournemouth.ac.uk\data\Student\Home\DEC\i7425484\software programming assignment 2\Game\Debug\Game.exe
+     1>Done Building Project "\\bournemouth.ac.uk\data\Student\Home\DEC\i7425484\software programming assignment 2\Game\Game\Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.25
